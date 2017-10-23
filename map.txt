@@ -1,0 +1,4 @@
+3 11
+X..XX...X.X
+..X..XXX...
+XXX....XXXX
